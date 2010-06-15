@@ -1,0 +1,6 @@
+{
+    "name" : "Restart",
+    "author" : "Jonathan Kressaty <jonathan.kressaty@gmail.com>",
+    "description" : "Redirect back to the beginning of a call or SMS flow.",
+    "url" : "http://openvbx.org"
+}

@@ -1,0 +1,5 @@
+{
+    "name" : "Restart",
+    "description" : "Redirects call or SMS back to beginning of the flow.",
+    "type" : ["voice", "sms"]
+}
